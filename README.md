@@ -36,13 +36,13 @@ No special installation steps are required. Simply ensure you have Python instal
 2. Navigate to the project directory:
 
    ```bash
-   cd registration-form-tkinter
+   cd registration-form-python
    ```
 
 3. Run the script:
 
    ```bash
-   python registration_form.py
+   python form.py
    ```
 
 4. The registration form window should appear, allowing users to input their information.
