@@ -30,13 +30,13 @@ No special installation steps are required. Simply ensure you have Python instal
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jaiprakashoffcl/registration-form-pythom.git
+   git clone https://github.com/jaiprakashoffcl/register-form-pythom.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd registration-form-python
+   cd register-form-python
    ```
 
 3. Run the script:
