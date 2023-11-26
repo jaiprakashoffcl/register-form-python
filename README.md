@@ -1,4 +1,4 @@
-# Registration Form using Tkinter
+# Registration Form using Python and Tkinter library 
 
 This project implements a simple registration form using the Tkinter library in Python.
 
@@ -30,7 +30,7 @@ No special installation steps are required. Simply ensure you have Python instal
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/registration-form-tkinter.git
+   git clone https://github.com/jaiprakashoffcl/registration-form-pythom.git
    ```
 
 2. Navigate to the project directory:
